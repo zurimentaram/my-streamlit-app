@@ -1,0 +1,7 @@
+# Python virtual environment
+myenv/
+# Other common Python ignore patterns
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/ # Anda bisa tambahkan ini jika tidak ingin mengunggah konfigurasi VS Code Anda
